@@ -1,0 +1,7 @@
+_oscillator_init: CODE, 316 0 26
+_delay: CODE, 190 0 62
+_UART_Init: CODE, 288 0 28
+_main: CODE, 252 0 36
+_ISR_Function: CODE, 8 0 182
+__initialization: CODE, 342 0 0
+Total: 334
